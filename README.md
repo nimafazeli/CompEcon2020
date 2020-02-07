@@ -54,7 +54,7 @@ I am working on a second edition. As we progress, I will (hopefully) have drafts
 
 ## Course Outline and Schedule ##
 
-| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic | Details |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;Topic&nbsp; | Details |
 |------|-----|-------|
 | Feb. 18 | Introduction | Chapter 1: Computational power. Computational math as an economics problem: managing scarce resources. Economics VERSUS computational mathematics. |
 | Feb. 20 | Computer arithmetic | Chapter 2. General ideas of computational errors, and rates of convergence. Finite precision arithmetic and finite - difference derivatives. |
