@@ -89,4 +89,4 @@ I am working on a second edition. As we progress, I will (hopefully) have drafts
 
 ## Contact ##
 
-If you have any questions, feel free to contact [Ken](judd@stanford.edu) or open a new issue on Github (check if your question has maybe already been asked and answered).
+If you have any questions, feel free to contact Ken or open a new issue on Github (check if your question has maybe already been asked and answered).
