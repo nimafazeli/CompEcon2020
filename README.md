@@ -64,7 +64,7 @@ I am working on a second edition. As we progress, I will (hopefully) have drafts
 | March 5 | Constrained optimization: theory and methods | Chapters 4 and 5. Linear and nonlinear optimization. KKT conditions, augmented lagrangian, SQP and interior point methods. |
 | March 10 | Constrained optimization: applications | Introduction to multiobjective optimization. Applications to consumer demand and incentive problems |
 | March 12 | Structural estimation I | Basic ideas. MPEC versus NFXP |
-| March 17 | Finite-difference ODEs | |
+| March 17 | Finite-difference ODEs | Euler method, Runge-Kutta method, explicit methods, implicit methods. Applications to continuous-time models. |
 | March 19 | Version control using Git | *(Robert Erbe and Gregor Reich)* |
 | March 24 | Automatic Differentiation | *(Philipp Mueller)* |
 | March 26 | Homotopy | *(Philipp Mueller and Karl Schmedders)* Chapter 5. Applications will include general equilibrium, Nash equilibrium of static game. |
