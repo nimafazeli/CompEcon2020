@@ -18,7 +18,7 @@ Mykel Kochenderfer and Tim Wheeler have written a very nice book on optimization
 * [http://web.mit.edu/dimitrib/www/soc.html](http://web.mit.edu/dimitrib/www/soc.html)
 
 
-[Dmitri Bertsekas](http://web.mit.edu/dimitrib/www/home.html) has been a major contributor to optimization, and has put a lot of material on the web. The style is old-fashioned but he presents a lot of material in a consistent style.
+[Dmitri Bertsekas](http://web.mit.edu/dimitrib/www/home.html) has been a major contributor to optimization, and has put a lot of material on the web, and it is presented in a consistent style.
 
 Bertsekas books
 
